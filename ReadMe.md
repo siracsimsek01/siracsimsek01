@@ -1,6 +1,10 @@
 # 💫 About Me:
 
-I specialize in Frontend Web development, using HTML5, SASS, JavaScript, React.js, Vue.js and Node.js.<br>My ultimate goal is to become an AI developer, constantly expanding my programming skills and knowledge. If you have any questions about web development or seek insights into programming, feel free to ask.<br>Currently, I'm learning Python to pursue projects in Machine Learning, aligning with my primary objective.<br>Additionally, I'm here to assist you with any programming-related topics.<br>Happy coding!
+I specialize in Frontend Web development, using HTML5, SASS, JavaScript, React.js, Vue.js and Node.js.
+<br>My ultimate goal is to become an AI developer, constantly expanding my programming skills and knowledge.
+If you have any questions about web development or seek insights into programming, feel free to ask.
+<br>Currently, I'm learning Python to pursue projects in Machine Learning, aligning with my primary objective.
+<br>Additionally, I'm here to assist you with any programming-related topics.<br>Happy coding!
 
 
 ## 🌐 Socials:
