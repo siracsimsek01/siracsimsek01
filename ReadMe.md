@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-I specialize in Frontend Web development, using HTML5, SASS, JavaScript, React.js, Vue.js and Node.js.
-<br>My ultimate goal is to become an AI developer, constantly expanding my programming skills and knowledge.
+I specialize in Full Stack Development, using React, Next.js, SASS, Tailwind, JavaScript, Node.js, Python, C++, and Java.
+<br>My ultimate goal is to become a Machine Learning Engineer. I am constantly expanding my programming skills and knowledge to achieve my goals in programming.
 If you have any questions about web development or seek insights into programming, feel free to ask.
-<br>Currently, I'm learning Python to pursue projects in Machine Learning, aligning with my primary objective.
+<br>Currently, I'm learning Python and Java to pursue projects in Machine Learning, aligning with my primary objective.
 <br>Additionally, I'm here to assist you with any programming-related topics.<br>Happy coding!
 
 
@@ -17,10 +17,7 @@ If you have any questions about web development or seek insights into programmin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siracsimsek01&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siracsimsek01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=siracsimsek01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siracsimsek01&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
