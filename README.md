@@ -2,7 +2,6 @@
 
 I specialize in Full Stack Development, using React, Next.js, SASS, Tailwind, JavaScript, Node.js, Python, C++, and Java.
 <br>My ultimate goal is to become a Machine Learning Engineer. I am constantly expanding my programming skills and knowledge to achieve my goals in programming.
-If you have any questions about web development or seek insights into programming, feel free to ask.
 <br>Currently, I'm learning Python and Java to pursue projects in Machine Learning, aligning with my primary objective.
 <br>Additionally, I'm here to assist you with any programming-related topics.<br>Happy coding!
 
