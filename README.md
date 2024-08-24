@@ -1,4 +1,4 @@
-<h2 align="center">Hi There👋! <br>I am a dedicated Full Stack Developer with over five years of experience specializing in front-end and back-end development for dynamic web, mobile, and business applications. I am proficient in a range of programming languages including JavaScript, Java, and Python, and well-versed in modern frameworks such as React, React Native, and Next.js.</h2>
+<h2 align="center">Hi There👋! <br>I am a  Full Stack Developer with over five years of experience specializing in front-end and back-end development for dynamic web, mobile, and business applications. I am proficient in a range of programming languages including JavaScript, Java, and Python, and well-versed in modern frameworks such as React, React Native, and Next.js.</h2>
 
 ---
 
