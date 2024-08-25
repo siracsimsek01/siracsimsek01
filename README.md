@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
         <br>
       </td>
       <td align="center" width="96">
