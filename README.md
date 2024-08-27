@@ -76,7 +76,7 @@
         <br>
       </td>
       <td align="center" width="96">
-        <img src="https://inceptum.s3.us-east-1.amazonaws.com/TErRc1E6L9wX/expoicon.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA3HNMG24SATQ2TORO%2F20240820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240820T083402Z&X-Amz-Expires=345600&X-Amz-Signature=c20f544b2f1c8e57a28aeffd7317558d5ad49a89cba6aa346266bec67bfdcee7&X-Amz-SignedHeaders=host&x-id=GetObject" width="48" height="48" alt="Expo" />
+        <img src="https://miro.medium.com/v2/resize:fit:512/1*eM0EFafJz-_ZEWDpL6F83g.png" width="48" height="48" alt="Expo" />
         <br>
       </td>
       <td align="center" width="96">
