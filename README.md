@@ -1,4 +1,4 @@
-<h3 align="center" style="line-height: 10px;">Hi There👋! <br /> <br/> I am a Software Developer with over five years of experience specializing in front-end and back-end development for dynamic web, mobile, and business applications. I am proficient in a range of programming languages including JavaScript, Java, and Python, and well-versed in modern frameworks such as React, React Native, and Next.js.</h2>
+<h3 align="center" style="line-height: 10px;">Hi There👋! <br /> <br/> I am a Software Developer with over five years of experience specializing in front-end and back-end development for dynamic web, mobile, and business applications. I am proficient in a range of programming languages including TypeScript, Java, and Python, and well-versed in modern frameworks such as React, React Native, and Next.js.</h2>
 
 ---
 
