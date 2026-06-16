@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-I’m Sirac Simsek, a full-stack engineer with a strong interest in applied machine learning and system design.<br/>
+I’m Sirac Simsek, a Full-Stack AI Engineer with a strong interest in applied machine learning and system design.<br/>
 I build modern web applications, backend systems, and data-driven features with a focus on clarity, correctness, and long-term reliability.
 </p>
 
