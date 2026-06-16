@@ -62,9 +62,9 @@ I value precision over noise, and results over announcements.
 
 ## 🚀 Selected Work
 
-- **VisionTrack** – Computer vision–based football analytics system  
-- **KinderGrow** – Secure child health tracking platform with PDF reporting  
-- **Aya Project** – Production-grade Next.js website with SEO & i18n  
+- **ScoutMind AI** – Computer vision–based football analytics system  
+- **KinderGrow AI** – Secure child health tracking platform with PDF reporting  
+- **Meetly AI** – Production-grade Next.js video conferencing platform backed by LLMs.
 - **Information Retrieval System** – TF-IDF, cosine similarity, precision/recall evaluation  
 - **Advanced Scientific Calculator** – Symbolic math engine built with Python & PyQt  
 
