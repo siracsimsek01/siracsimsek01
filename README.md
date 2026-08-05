@@ -14,7 +14,7 @@ Alongside development, I enjoy exploring the theoretical side of computing. I do
 </p>
 
 <p align="center">
-I’m currently focused on building production-grade systems, strengthening my machine learning foundations.
+I’m currently focused on building production-grade and customer-facing systems, while building more AI powered applications for production.
 </p>
 
 ---
