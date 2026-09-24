@@ -1,12 +1,12 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-I’m Sirac Simsek, a Full-Stack AI Engineer with a strong interest in applied machine learning and system design.<br/>
+I’m Sirac Simsek, a Founding AI Engineer with a strong proficiency in applied machine learning and system design.<br/>
 I build modern web applications, backend systems, and data-driven features with a focus on clarity, correctness, and long-term reliability.
 </p>
 
 <p align="center">
-My background spans frontend development, backend architecture, and foundational machine learning concepts. I enjoy working close to both the user experience and the underlying system logic, understanding how design decisions, data flow, and infrastructure choices affect real-world behaviour.
+My background spans frontend development, backend architecture, and machine learning concepts. I enjoy working close to both the user experience and the underlying system logic, understanding how design decisions, data flow, and infrastructure choices affect real-world behaviour.
 </p>
 
 <p align="center">
